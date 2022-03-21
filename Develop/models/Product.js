@@ -24,7 +24,8 @@ Product.init(
       allowNull: false,
       validate: {
         isDecimal: true
-      },
+      }
+    },
     stock: {
       type: DataTypes.INTEGER,
       allowNull: false,
@@ -35,7 +36,7 @@ Product.init(
 
     }
 
-    }
+    
   },
   {
     sequelize,
