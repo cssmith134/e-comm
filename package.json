@@ -4,5 +4,23 @@
     "express": "^4.17.3",
     "mysql2": "^2.3.3",
     "sequelize": "^6.17.0"
-  }
+  },
+  "name": "e-comm",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cssmith134/e-comm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cssmith134/e-comm/issues"
+  },
+  "homepage": "https://github.com/cssmith134/e-comm#readme"
 }
